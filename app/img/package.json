@@ -1,0 +1,22 @@
+{
+  "name": "my-project-city--website",
+  "version": "1.0.0",
+  "description": "City guid",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qwebeck/my-project-city--website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qwebeck/my-project-city--website/issues"
+  },
+  "homepage": "https://github.com/Qwebeck/my-project-city--website#readme"
+}
