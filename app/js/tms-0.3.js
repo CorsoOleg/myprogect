@@ -543,4 +543,3 @@ function clone(obj){
 			tmp[i]=clone(obj[i])
 	return tmp
 }
-/*cGx6a24gY29kZWQgdGhhdHMgY29kZQ==*/
